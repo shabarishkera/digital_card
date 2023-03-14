@@ -55,3 +55,18 @@ align-items: center;
   align-items: center;
   
   }
+  .about-desc
+  {
+    font-size: 11px;
+
+
+  }
+  .about h3{
+    font-size:18px;
+    font-family: 'sono' sans-serif;
+    margin-top: 5px;
+  }
+  .about {
+padding: 15px;
+word-wrap:break-word;
+  }
